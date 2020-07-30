@@ -1,8 +1,6 @@
 ### Hi there 👋
 [![HitCount](http://hits.dwyl.com/razzkumar/razzkumar.svg)](http://hits.dwyl.com/razzkumar/razzkumar)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on javascript and devOps task
 - 🌱 I’m currently learning everything related to Software Engineering
 - 👯 I’m looking to collaborate with devOps engineer out there
