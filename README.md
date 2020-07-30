@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/razzkumar/razzkumar.svg)](http://hits.dwyl.com/razzkumar/razzkumar)
 
 - 🔭 I’m currently working on javascript and devOps task
 - 🌱 I’m currently learning everything related to Software Engineering
@@ -8,3 +7,5 @@
 - ⚡ Fun fact: I love riding bikes
 
 [![razzkumar's github stats](https://github-readme-stats.vercel.app/api?username=razzkumar&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![HitCount](http://hits.dwyl.com/razzkumar/razzkumar.svg)](http://hits.dwyl.com/razzkumar/razzkumar)
