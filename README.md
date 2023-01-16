@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I/m currently working on deploying, monitoring, and maintaining software to ensure its reliability.
-- 🌱 I’m currently learning everything related to SRE/DevOps.
-- 👯 I’m looking to collaborate with SRE out there.
+- 🔭 Working on deploying, monitoring, and maintaining software to ensure its reliability.
+- 🌱 Learning everything related to SRE/DevOps.
+- 👯 Looking to collaborate with SRE out there.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love riding bikes.
 
