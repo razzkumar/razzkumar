@@ -7,5 +7,3 @@
 - 🚴 **Fun Fact:** I pedal faster than our CI/CD pipelines deploy!
 
 [![razzkumar's github stats](https://github-readme-stats.vercel.app/api?username=razzkumar&show_icons=true&hide_border=true&theme=tokyonight)](https://razzkumar.github.io)
-
-[![HitCount](http://hits.dwyl.com/razzkumar/razzkumar.svg)](http://hits.dwyl.com/razzkumar/razzkumar)
